@@ -1,17 +1,3 @@
-# tp4_alertes
+<img width="922" height="2048" alt="a55027a4-1f90-419c-81aa-9bb9094dd828 (1)" src="https://github.com/user-attachments/assets/9d9b5a29-caad-4f7e-b848-8d65efaa73b1" />
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
